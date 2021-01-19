@@ -1,0 +1,65 @@
+.line
+{
+  width:100px;
+  height:5px;
+  background-color: black;
+}
+#s1
+{
+  height:800px;
+  background:linear-gradient(#ff8080 0% ,#cc0000 100%);
+  opacity: 0.95;
+}
+body
+{
+text-align:center;
+}
+#profileimage
+{
+  margin-top:100px ;
+    height:400px;
+    border-radius:80%;   
+}
+#s2
+{
+  height:400px;
+}
+.menubar
+{
+    border-style:solid;
+    border-width:thick;
+    border-color: blue;
+    background-color: green;
+    position:absolute;
+    top:0px;
+    right:1px;
+    list-style: none;
+    width:96%;
+    cursor: pointer;
+}
+
+.listnames
+{
+   float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+    color:black;
+}
+
+#list1
+{
+    margin-left: 500px;
+}
+.listnames:hover
+{
+    background-color: darkmagenta;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#if1
+{
+    border-style:solid;
+    border-width= 20px;
+    border-color:brown;
+}
